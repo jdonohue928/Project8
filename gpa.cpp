@@ -35,9 +35,8 @@ public:
 
    Course(){
      input();
-
-
    }
+ 
 //Input method for midterms
    void get_midterms(){
      int midterm_count = 0;
